@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Chaitin Tech.In  Security Strategy Research Team
+😄 I'm a CTFer@天枢Dubhe , interested in WEB Security But a noob
+
+🔭 I’m currently an intern at Chaitin Tech. [Security Strategy Research Team]
+
 🌱 I’m currently learning Windows Security
-📫 How to reach me: crisprx.top
+
+📫 How to reach me: [https://crisprx.top](https://crisprx.top)
 
 [![Crispr's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisprss)](https://github.com/anuraghazra/github-readme-stats)
