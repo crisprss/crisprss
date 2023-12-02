@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 😄 I'm a CTFer@天枢Dubhe , interested in WEB Security But a noob
 
-🔭 I’m currently an intern at KeenLab. [Web Security] 
+🔭 I’m currently in Secsys of Fudan University. 
    Worked as an intern at @chaitin. [Security Strategy Research Team]
+   worked as an intern at @KeenLab [Web Security] 
 
 🌱 I’m currently learning Windows Security and Java Security
 
