@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I'm a CTFer@天枢Dubhe , interested in WEB Security But a noob
+😄 I was a CTFer@天枢Dubhe and now a CTFer@白泽Whitzard, interested in WEB Security But a noob
 
 🔭 I’m currently in Secsys of Fudan University. 
    Worked as an intern at @chaitin. [Security Strategy Research Team]
    worked as an intern at @KeenLab [Web Security] 
 
-🌱 I’m currently learning Windows Security and Java Security
+🌱 Bug hunting for Windows & Macos & Java web application
+
 
 📫 How to reach me: [https://crisprx.top](https://crisprx.top)
 
