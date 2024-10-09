@@ -22,9 +22,11 @@ Here are some ideas to get you started:
 
 🌱 Bug hunting for Windows & Macos & Java web application
 
+✨ Here is the CVE list of mine in current year 2024: [CVE-2024](https://github.com/crisprss/CVEs)
+
 
 📫 How to reach me: [https://crisprx.top](https://crisprx.top)
 
 [![Crispr's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisprss&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisprss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crisprss&layout=compact&theme=tokyonight&hide=lua)](https://github.com/anuraghazra/github-readme-stats)
