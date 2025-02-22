@@ -20,9 +20,9 @@ Here are some ideas to get you started:
    Worked as an intern at @chaitin. [Security Strategy Research Team]
    worked as an intern at @KeenLab [Web Security] 
 
-🌱 Bug hunting for Windows & Macos & Java web application
+🌱 Bug hunting for Windows & Macos & Java web application. [MSRC MVR 2024]
 
-✨ Here is the CVE list of mine in current year 2024: [CVE-2024](https://github.com/crisprss/CVEs)
+✨ Here is the CVE list of mine: [CVEs](https://github.com/crisprss/CVEs)
 
 
 📫 How to reach me: [https://crisprx.top](https://crisprx.top)
