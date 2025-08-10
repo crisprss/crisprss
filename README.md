@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ✨ Here is my CVE list: [CVEs](https://github.com/crisprss/CVEs)
 
 
-📫 How to reach me: [https://crisprx.top](https://crisprx.top)
+📫 How to reach me: [HomePage](https://crisprss.github.io/)
 
 [![Crispr's GitHub stats](https://github-readme-stats.vercel.app/api?username=crisprss&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
