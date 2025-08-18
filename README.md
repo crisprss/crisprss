@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-😄 I was a CTFer@天枢Dubhe and now a CTFer@白泽Whitzard, interested in WEB Security But a noob
+😄 I was a CTFer@天枢Dubhe and now in 白泽@Whitzard, interested in WEB Security But a noob
 
 🔭 I’m currently in Secsys of Fudan University. 
    Worked as an intern at @chaitin. [Security Strategy Research Team]
    worked as an intern at @KeenLab [Web Security] 
 
-🌱 Bug hunting for Windows & MacOs & Java web application. [MSRC MVR 2024]
+🌱 Bug hunting for Windows & MacOs & Java web application. [MSRC MVR 2024,2025]
 
 ✨ Here is my CVE list: [CVEs](https://github.com/crisprss/CVEs)
 
